@@ -3,7 +3,7 @@ understanding ML.Net
 
 1.Open visual Studio 2017
 
-2.Brownse to the solution folder and click Pricing_App
+2.Browse to the solution folder and click Pricing_App
 
 3.the soultion will be opened in the solution explorer
 
@@ -14,3 +14,5 @@ understanding ML.Net
 6.Build Solution and this will create the bin folder and restores the nuget packages of ML under dependencies folder
 
 7.press F5 to see the predictive price of the same data inputs
+
+8.Please refer solution_Structure.jpg
