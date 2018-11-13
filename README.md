@@ -1,9 +1,9 @@
 # ML.Net
 understanding ML.Net
 
-1.Open visual Studio 2017
+1.Open visual Studio 2017 community adition which is a free download
 
-2.Browse to the solution folder and click Pricing_App
+2.Browse to the solution folder and click Pricing_App solution folder
 
 3.the soultion will be opened in the solution explorer
 
